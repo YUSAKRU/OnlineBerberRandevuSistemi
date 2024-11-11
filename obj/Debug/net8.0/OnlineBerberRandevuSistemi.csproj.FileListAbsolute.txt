@@ -142,3 +142,9 @@
 /Users/ruveys/Documents/Berber/OnlineBerberRandevuSistemi/OnlineBerberRandevuSistemi/obj/Debug/net8.0/OnlineBerberRandevuSistemi.pdb
 /Users/ruveys/Documents/Berber/OnlineBerberRandevuSistemi/OnlineBerberRandevuSistemi/obj/Debug/net8.0/OnlineBerberRandevuSistemi.genruntimeconfig.cache
 /Users/ruveys/Documents/Berber/OnlineBerberRandevuSistemi/OnlineBerberRandevuSistemi/obj/Debug/net8.0/ref/OnlineBerberRandevuSistemi.dll
+/Users/ruveys/Documents/Berber/OnlineBerberRandevuSistemi/OnlineBerberRandevuSistemi/bin/Debug/net8.0/frontend/frontend/package-lock.json
+/Users/ruveys/Documents/Berber/OnlineBerberRandevuSistemi/OnlineBerberRandevuSistemi/bin/Debug/net8.0/frontend/frontend/package.json
+/Users/ruveys/Documents/Berber/OnlineBerberRandevuSistemi/OnlineBerberRandevuSistemi/bin/Debug/net8.0/frontend/frontend/public/manifest.json
+/Users/ruveys/Documents/Berber/OnlineBerberRandevuSistemi/OnlineBerberRandevuSistemi/bin/Debug/net8.0/frontend/package-lock.json
+/Users/ruveys/Documents/Berber/OnlineBerberRandevuSistemi/OnlineBerberRandevuSistemi/bin/Debug/net8.0/frontend/package.json
+/Users/ruveys/Documents/Berber/OnlineBerberRandevuSistemi/OnlineBerberRandevuSistemi/bin/Debug/net8.0/package.json
