@@ -11,5 +11,12 @@ namespace OnlineBerberRandevuSistemi.Data
         public DbSet<Appointment> Appointments { get; set; }
         public DbSet<Service> Services { get; set; }
         public DbSet<Review> Reviews { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Service>()
+                .Property(s => s.Price)
+                .HasColumnType("decimal(18,2)");
+        }
     }
 }
