@@ -1,0 +1,6 @@
+@OnlineBerberRandevuSistemi_HostAddress = http://localhost:5282
+
+GET {{OnlineBerberRandevuSistemi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

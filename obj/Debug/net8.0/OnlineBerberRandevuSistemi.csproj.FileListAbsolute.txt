@@ -1,0 +1,7 @@
+/Users/ruveys/Documents/Berber/OnlineBerberRandevuSistemi/OnlineBerberRandevuSistemi/obj/Debug/net8.0/OnlineBerberRandevuSistemi.csproj.AssemblyReference.cache
+/Users/ruveys/Documents/Berber/OnlineBerberRandevuSistemi/OnlineBerberRandevuSistemi/obj/Debug/net8.0/OnlineBerberRandevuSistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruveys/Documents/Berber/OnlineBerberRandevuSistemi/OnlineBerberRandevuSistemi/obj/Debug/net8.0/OnlineBerberRandevuSistemi.AssemblyInfoInputs.cache
+/Users/ruveys/Documents/Berber/OnlineBerberRandevuSistemi/OnlineBerberRandevuSistemi/obj/Debug/net8.0/OnlineBerberRandevuSistemi.AssemblyInfo.cs
+/Users/ruveys/Documents/Berber/OnlineBerberRandevuSistemi/OnlineBerberRandevuSistemi/obj/Debug/net8.0/OnlineBerberRandevuSistemi.csproj.CoreCompileInputs.cache
+/Users/ruveys/Documents/Berber/OnlineBerberRandevuSistemi/OnlineBerberRandevuSistemi/obj/Debug/net8.0/OnlineBerberRandevuSistemi.MvcApplicationPartsAssemblyInfo.cs
+/Users/ruveys/Documents/Berber/OnlineBerberRandevuSistemi/OnlineBerberRandevuSistemi/obj/Debug/net8.0/OnlineBerberRandevuSistemi.MvcApplicationPartsAssemblyInfo.cache
