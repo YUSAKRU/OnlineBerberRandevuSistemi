@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlineBerberRandevuSistemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e153b1c7991223041efc9abc2fdb84b9b2b3102")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3718830e252cc507707e7a83649096bf57eae3eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnlineBerberRandevuSistemi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnlineBerberRandevuSistemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
